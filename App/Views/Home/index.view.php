@@ -38,21 +38,24 @@
         <article id="kapely" class="card">
             <h3>Potvrdené kapely</h3>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na <strong>Main Stage</strong>, <strong>Red Stage</strong> a <strong>Club Stage</strong> sa predstaví viac ako <em>15 zahraničných a domácich kapiel</em> rôznych žánrov od Hard Rocku až po Grindcore.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na <strong>Main Stage</strong>, <strong>Red Stage</strong> a <strong>Club Stage</strong> sa
+                predstaví viac ako <em>15 zahraničných a domácich kapiel</em> rôznych žánrov od Hard Rocku až po Grindcore.
             </p>
         </article>
 
         <article id="areal" class="card">
             <h3>Areál a stanovanie</h3>
             <p>
-                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Areál ponúka tri pódiá, gastro zónu a bezplatné parkovanie pre návštevníkov.
+                Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex
+                ea commodo consequat. Areál ponúka tri pódiá, gastro zónu a bezplatné parkovanie pre návštevníkov.
             </p>
         </article>
 
         <article class="card">
             <h3>Organizácia a prihlášky</h3>
             <p>
-                Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Organizátori môžu spravovať prijaté kapely a časové sloty po kliknutí na tlačidlo <strong>Prihlásenie</strong> v pravom hornom rohu.
+                Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Organizátori môžu
+                spravovať prijaté kapely a časové sloty po kliknutí na tlačidlo <strong>Prihlásenie</strong> v pravom hornom rohu.
             </p>
         </article>
     </div>

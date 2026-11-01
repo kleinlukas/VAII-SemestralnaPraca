@@ -1,4 +1,5 @@
 <?php
+
 /** @var string $contentHTML */
 /** @var \Framework\Support\LinkGenerator $link */
 ?>
