@@ -19,8 +19,8 @@ class Band extends Model
         ?string $genre = null,
         ?string $email = null,
         int $setup_time = 30,
-        ?string $description = null)
-    {
+        ?string $description = null
+    ) {
         $this->name = $name;
         $this->genre = $genre;
         $this->email = $email;
