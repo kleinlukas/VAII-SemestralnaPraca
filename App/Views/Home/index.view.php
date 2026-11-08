@@ -38,7 +38,8 @@
         <article id="kapely" class="card">
             <h3>Potvrdené kapely</h3>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na <strong>Main Stage</strong>, <strong>Red Stage</strong> a <strong>Club Stage</strong> sa
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na <strong>Main Stage</strong>,
+                <strong>Red Stage</strong> a <strong>Club Stage</strong> sa
                 predstaví viac ako <em>15 zahraničných a domácich kapiel</em> rôznych žánrov od Hard Rocku až po Grindcore.
             </p>
         </article>

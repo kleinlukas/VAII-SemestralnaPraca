@@ -14,7 +14,12 @@ class Band extends Model
     protected int $setup_time = 30;
     protected ?string $description = null;
 
-    public function __construct(?string $name = null, ?string $genre = null, ?string $email = null, int $setup_time = 30, ?string $description = null)
+    public function __construct(
+        ?string $name = null,
+        ?string $genre = null,
+        ?string $email = null,
+        int $setup_time = 30,
+        ?string $description = null)
     {
         $this->name = $name;
         $this->genre = $genre;

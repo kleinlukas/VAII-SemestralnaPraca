@@ -69,5 +69,4 @@ class BandController extends BaseController
 
         return $this->redirect($this->url('band.index'));
     }
-
 }
