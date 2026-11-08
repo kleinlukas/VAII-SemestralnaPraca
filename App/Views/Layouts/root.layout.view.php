@@ -19,7 +19,7 @@
     <nav class="header-menu" aria-label="Hlavné menu">
         <ul>
             <li><a href="<?= $link->url('home.index') ?>#lineup">LINE-UP</a></li>
-            <li><a href="<?= $link->url('home.index') ?>#kapely">KAPELY</a></li>
+            <li><a href="<?= $link->url('band.index') ?>#kapely">KAPELY</a></li>
             <li><a href="<?= $link->url('home.index') ?>#areal">AREÁL</a></li>
             <li><a href="<?= $link->url('home.index') ?>#kontakt">KONTAKT</a></li>
         </ul>
